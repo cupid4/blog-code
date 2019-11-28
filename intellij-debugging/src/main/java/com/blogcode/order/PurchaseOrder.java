@@ -85,4 +85,8 @@ public class PurchaseOrder {
     public Status getStatus() {
         return status;
     }
+
+    public void gitDiff() {
+        System.out.println("gitDiff");
+    }
 }
